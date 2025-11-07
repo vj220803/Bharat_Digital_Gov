@@ -3,7 +3,7 @@
 **Built for:** *Build for Bharat / Bharat Digital Fellowship — 2026 Cohort*  
 **Author:** Vijayan Naidu  
 **Screenshots:** 
-![Flowchart](assets/flowchart.png)
+![Flowchart](https://github.com/vj220803/Bharat_Digital_Gov/blob/main/F1.PNG)
 ![Flowchart](assets/flowchart.png)
 ![Flowchart](assets/flowchart.png)
 

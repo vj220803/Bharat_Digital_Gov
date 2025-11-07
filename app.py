@@ -33,7 +33,7 @@ a **single natural-language Q&A interface**.
 # ================================================================
 # 2. LOAD DATA (Rainfall + Crop)
 # ================================================================
-@st.cache_data
+# @st.cache_data
 def load_data():
     con = duckdb.connect(database='samarth.duckdb', read_only=False)
 

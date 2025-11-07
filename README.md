@@ -4,7 +4,7 @@
 **Author:** Vijayan Naidu  
 **Screenshots:** 
 ![Flowchart](https://github.com/vj220803/Bharat_Digital_Gov/blob/main/F1.PNG)
-![Flowchart](assets/flowchart.png)
+![Flowchart](https://github.com/vj220803/Bharat_Digital_Gov/blob/main/F2.PNG)
 ![Flowchart](assets/flowchart.png)
 
 ---
